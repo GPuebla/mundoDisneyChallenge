@@ -8,6 +8,7 @@ public class MundoDisneyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MundoDisneyApplication.class, args);
+		System.out.println("hola mudo");
 	}
 
 }
