@@ -9,6 +9,7 @@ public class MundoDisneyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MundoDisneyApplication.class, args);
 		System.out.println("Update test");
+		System.out.println("Update test 2");
 	}
 
 }
